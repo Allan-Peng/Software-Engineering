@@ -7,7 +7,7 @@
 
 # Site settings
 title: Allan Peng's course website
-brief-intro: OO Analysis & Design and Software Engineering
+brief-intro: Object Oriented Analysis and Design
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://allan-peng.github.io/" # the base hostname & protocol for your site
 
