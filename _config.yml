@@ -9,7 +9,7 @@
 title: Allan Peng's course website
 brief-intro: Software Engineering
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://allan-peng.github.io/" # the base hostname & protocol for your site
+url: "https://allan-peng.github.io/software-engineering" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
 
