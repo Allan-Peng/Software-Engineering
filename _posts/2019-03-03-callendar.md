@@ -13,16 +13,20 @@ author: Allan
 
 LEC #|TOPICS | KEY DATES |  Notes  
 -|-|-|-
-1|Course requirements, evaluation, organization |week1 |-  |
-2|Welcome to Design Patterns:  an introduction  | w1 |-  |
-3-4|the Strategy pattern  | w2 | - |
-5-6|the Observer Pattern   | w3 | - |
-7-8|the Decorator Pattern   | w4 | - |
-9-10|the Factory Pattern   | w5 | - |
-11-12|the Singleton Pattern   | w6 | - |
-13-14|Level-4 Project   | w7 | - |
-15-16|the Command Pattern   | w8 | - |
-17-18|the Adapter and Facade Patterns   | w9 | - |
-19-20|the Template Method Pattern    | w10 | - |
-21-22|the State Pattern    | w11 | - |
-23-24|oral defense    | w12 | - |
+1|Intro to SE |week1 |-  |
+2-3|Software Process  | w1-2 |-  |
+4|Agile Development  | w2 | - |
+5|Human aspects of software engineering   | w3 | - |
+6-7|Design thinking   | w3-4 | - |
+8-11|Understanding requirements   | w4-6 | - |
+12-13|Requirements modeling:Scenario-based methods   | w6-7 | - |
+13-14|Requirements modeling: Class-based methods   | w7-8 | - |
+16-17|Design Concepts   | w8-9 | - |
+18-19|Architectural modeling   | w9-10 | - |
+20|Component-level modeling    | w10 | - |
+21|User interface modeling    | w11 | - |
+22|Pattern-based modeling    | w11 | - |
+23-25|Software Implementation-Project Practice    | w12-13 | - |
+26-29|Software quality assurance    | w13-15 | - |
+30-31|Project Management    | w15-16 | - |
+32|Course review    | w16 | - |
