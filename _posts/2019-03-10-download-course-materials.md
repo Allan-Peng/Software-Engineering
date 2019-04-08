@@ -8,7 +8,7 @@ author: Allan
 
 * content
 {:toc}
-
+![](assets/95e76d1b.png)
 ## Strategy pattern
 ## Observer Pattern
 ## Decorator Pattern
