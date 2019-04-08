@@ -13,6 +13,7 @@ With the escalation of jekyll version, but I also want to reconstruct my older b
 **My Blog Url: [http://gaohaoyang.github.io/](http://gaohaoyang.github.io/)**. If you like this theme, you can give me a star to encourage me. Welcome everyone to use it.
 
 ## Content
+![](assets/6fd07601.png)
 
 * [Preview](#preview)
 * [Page Details](#page-details)
@@ -44,6 +45,14 @@ With the escalation of jekyll version, but I also want to reconstruct my older b
 * [Donate](#donate)
 * [Update Log](#update-log)
 * [License](#license)
+
+
+
+
+
+
+
+
 
 ## Preview
 
