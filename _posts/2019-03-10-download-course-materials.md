@@ -8,7 +8,7 @@ author: Allan
 
 * content
 {:toc}
-![](assets/95e76d1b.png)
+![hello](assets/95e76d1b.png)
 ## Strategy pattern
 ## Observer Pattern
 ## Decorator Pattern
@@ -20,4 +20,4 @@ author: Allan
 ## Facade Pattern
 ## Template Method Pattern
 ## State Pattern
-![](assets/95e76d1b.png)
+![test](assets/95e76d1b.png)
