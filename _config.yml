@@ -25,6 +25,12 @@ dribbble_username:
 
 description_footer: From Allan Peng's course website！
 
+valine:
+  enable: true
+  app_id: aWmxImW1VQRcFejJrxoywlPR-gzGzoHsz
+  app_key: cQSczwiRJqEz53poq0C7Ak9n
+  notifiy: false
+  verfify: false
 # comments
 # two ways to comment, only choose one, and use your own short name
 # 两种评论插件，选一个就好了，使用自己的 short_name
