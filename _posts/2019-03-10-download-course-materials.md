@@ -8,7 +8,7 @@ author: Allan
 
 * content
 {:toc}
-![hello](assets/95e76d1b.png)
+
 ## Strategy pattern
 ## Observer Pattern
 ## Decorator Pattern
@@ -20,6 +20,3 @@ author: Allan
 ## Facade Pattern
 ## Template Method Pattern
 ## State Pattern
-![test](assets/95e76d1b.png)
-<img src="assets/95e76d1b.png"  alt="上海鲜花港 - 郁金香" />
-![hi](assets/9fbc38b0.png)
